@@ -1,0 +1,22 @@
+﻿Student,Student ID,Teacher Name,School,Lunch,Ethnicity,IEP,Domain 1,Domain 2,Domain 3
+Student 1,1234,"Washington, Alexandra",Sunnyside Middle School,Free,Hispanic or Latino,Yes,B,P,B
+Student 2,2345,"Washington, Alexandra",Sunnyside Middle School,Paid,Multi-racial ,No,P,P,M
+Student 3,3456,"Washington, Alexandra",Sunnyside Middle School,Paid,White,Yes,M,M,P
+Student 4,4567,"Washington, Alexandra",Sunnyside Middle School,Free,White,No,M,IE,M
+Student 5,5678,"Washington, Alexandra",Sunnyside Middle School,Free,Hispanic or Latino,Yes,B,M,IE
+Student 6,6789,"Washington, Alexandra",Sunnyside Middle School,Paid,White,No,M,IE,M
+Student 7,78910,"Washington, Alexandra",Sunnyside Middle School,Free,Black / African Am,Yes,M,IE,P
+Student 8,8911,"Washington, Alexandra",Sunnyside Middle School,Reduced,Hispanic or Latino,Yes,B,P,B
+Student 9,9112,"Washington, Alexandra",Sunnyside Middle School,Free,Multi-racial ,No,P,IE,M
+Student 10,1123,"Washington, Alexandra",Sunnyside Middle School,Free,Black / African Am,No,P,P,B
+Student 11,83949,"Washington, Alexandra",Sunnyside Middle School,Free,Black / African Am,No,P,M,P
+Student 12,197932,"Washington, Alexandra",Sunnyside Middle School,Paid,Hispanic or Latino,No,P,P,M
+Student 13,421807,"Washington, Alexandra",Sunnyside Middle School,Paid,White,Yes,P,P,P
+Student 14,12947,"Washington, Alexandra",Sunnyside Middle School,Paid,Hispanic or Latino,No,M,M,M
+Student 15,20735,"Washington, Alexandra",Sunnyside Middle School,Paid,White,Yes,M,P,P
+Student 16,1270402,"Washington, Alexandra",Sunnyside Middle School,Paid,White,No,M,M,M
+Student 17,128419,"Washington, Alexandra",Sunnyside Middle School,Paid,White,No,M,B,M
+Student 18,194286,"Washington, Alexandra",Sunnyside Middle School,Paid,White,No,M,M,M
+Student 19,12094,"Washington, Alexandra",Sunnyside Middle School,Free,White,No,M,P,M
+Student 20,340954,"Washington, Alexandra",Sunnyside Middle School,Paid,White,No,M,M,M
+Student 21,198342,"Washington, Alexandra",Sunnyside Middle School,Paid,White,No,M,M,M
